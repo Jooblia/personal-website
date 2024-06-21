@@ -1,0 +1,26 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jooblia/personal-website.git"
+  },
+  "author": "Julia Lundblad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jooblia/personal-website/issues"
+  },
+  "homepage": "https://github.com/Jooblia/personal-website#readme",
+  "dependencies": {
+    "typescript": "^5.5.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
