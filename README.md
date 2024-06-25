@@ -1,2 +1,2 @@
 # personal-website
-julia's personal/professional website
+actually its a website of possible jank web games
