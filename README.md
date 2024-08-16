@@ -1,2 +1,2 @@
 # personal-website
-actually its a website of probably jank web games
+im actually not sure what this is yet
